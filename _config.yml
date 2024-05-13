@@ -1,0 +1,12 @@
+title: Mikael Leonidsson Portfolio
+email: mikael.leonidsson@gmail.com
+description: >- # detta är ett YAML-kommentar, du kan skriva en kort beskrivning här.
+  Välkommen till min personliga portfölj där jag visar upp projekt och erfarenheter inom GIS och programmering.
+baseurl: "" # bas-URL för din webbplats om du använder en subpath, annars tom
+url: "https://mikael-leonidsson.github.io" # URL till din GitHub Pages
+github_username:  mikael-leonidsson
+
+# Build settings
+theme: minima # eller annat tema du vill använda
+plugins:
+  - jekyll-feed
